@@ -70,4 +70,27 @@ The general communication process can be summarized as:
 ## Files
 
 - `observe-web-request.pkt` - Cisco Packet Tracer lab file
-- `screenshots/` - Screenshots showing the different stages of the exercise
+- `Screenshots/` - Screenshots showing the different stages of the exercise
+
+
+## Screenshots
+
+### 1. DNS and Connectivity Test
+
+![Ping test](Screenshots/01-ping.png)
+
+### 2. Web Browser
+
+![Web browser](Screenshots/03-ping.png)
+
+### 3. HTML Source Code
+
+![HTML source code](Screenshots/04-ping.png)
+
+### 4. Simulation Mode
+
+![Simulation mode](Screenshots/06-ping.png)
+
+### 5. Packet Flow
+
+![Packet flow](Screenshots/07-ping.png)
