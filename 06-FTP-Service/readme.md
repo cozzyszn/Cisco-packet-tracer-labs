@@ -178,10 +178,3 @@ The overall process can be summarized as:
 * `use-ftp-services.pkt` — Cisco Packet Tracer lab file
 * `screenshots/` — Screenshots showing the different stages of the FTP exercise
 
-## Question
-
-**What command was used to remove the file from the FTP server?**
-
-```text
-delete sampleFile_FTP.txt
-```
