@@ -184,3 +184,13 @@ The overall process can be summarized as:
 ### 1. dir ftp server files
 ![Ping test](Screenshots/dir-ftpserver-files.png)
 
+### 2. get 
+![Ping test](Screenshots/get.png)
+
+### 3. put 
+![Ping test](Screenshots/put.png)
+
+### 4. rename
+![Ping test](Screenshots/rename.png)
+
+
