@@ -27,11 +27,10 @@ The PC was checked to confirm that it received an IP address from the DHCP serve
 
 Command used:
 
-```text
 ipconfig
 
 ### Verify Connectivity to HQ 
-``` text 
+
 ping 64.100.1.1
 
 ### Remote Access 
