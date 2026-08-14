@@ -77,20 +77,20 @@ The general communication process can be summarized as:
 
 ### 1. DNS and Connectivity Test
 
-![Ping test](Screenshots/01-ping.png)
+![Ping test](Screenshots/02-ping.png)
 
 ### 2. Web Browser
 
-![Web browser](Screenshots/03-ping.png)
+![Web browser](Screenshots/WEBBROSWER.png)
 
 ### 3. HTML Source Code
 
-![HTML source code](Screenshots/04-ping.png)
+![HTML source code](Screenshots/HTML-CODE.png)
 
 ### 4. Simulation Mode
 
-![Simulation mode](Screenshots/06-ping.png)
+![Simulation mode](Screenshots/06-simulationpanel.png)
 
 ### 5. Packet Flow
 
-![Packet flow](Screenshots/07-ping.png)
+![Packet flow](Screenshots/07-simulationpanel.png)
