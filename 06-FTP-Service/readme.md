@@ -178,3 +178,9 @@ The overall process can be summarized as:
 * `use-ftp-services.pkt` — Cisco Packet Tracer lab file
 * `screenshots/` — Screenshots showing the different stages of the FTP exercise
 
+
+## Screenshots 
+
+### 1. dir ftp server files
+![Ping test](Screenshots/dir-ftpserver-files.png)
+
