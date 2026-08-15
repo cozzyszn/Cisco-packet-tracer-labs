@@ -53,3 +53,12 @@ The SSH connection was successful and provided remote access to the HQ router.
 ### IP 
 ![Ping test](Screenshots/IP.png)
 
+### Router 
+![Ping test](Screenshots/ROUTER.png)
+
+### SSH
+![Ping test](Screenshots/SSH.png)
+
+### TELNET 
+![Ping test](Screenshots/TELNET.png)
+
