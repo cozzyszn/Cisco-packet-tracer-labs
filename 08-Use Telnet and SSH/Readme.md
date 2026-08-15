@@ -51,5 +51,5 @@ The SSH connection was successful and provided remote access to the HQ router.
 ## Screenshots 
 
 ### IP 
-![PING TEST](Screenshots\ip.png)
+![PING TEST](Screenshots\IP.png)
 
